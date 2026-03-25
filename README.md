@@ -2,7 +2,7 @@
 
 > Вариант: **sum_word_pstream**
 > 
-> Wrench Simulation Report: -
+> [Wrench Simulation Report](https://wrench.edu.swampbuds.me/report/511a6fb9-eaa5-416d-a805-761b51ab5ef9)
 
 ```python
 def sum_word_pstream(n, *xs):
